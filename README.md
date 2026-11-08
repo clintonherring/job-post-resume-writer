@@ -15,10 +15,11 @@ scripts, privacy separation (data directory vs repo), and worked
 examples. Practical, not flashy — deliberately: this is what a finished,
 distributable skill looks like.
 
-**The bigger picture:** across my public repos this is one piece of a
-broader demonstration of coordinated human+agent work — durable agent
-operations, multi-skill orchestration with human approval gates, packaged
-distributable skills, and transparent, injection-aware agent practices.
+**The bigger picture:** I build concrete, usable AI tools — this one is
+the clearest case: installable in minutes, verified end to end, private
+by design. The rest of the set shows the depth around it: durable agent
+operations, multi-skill orchestration with human approval gates, and
+transparent, injection-aware agent practices.
 
 This repo participates in a public transparency experiment:
 [central-guestbook](https://github.com/clintonherring/central-guestbook) —
